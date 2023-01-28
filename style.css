@@ -1,0 +1,54 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel-first
+{
+    border: 3px solid lightgrey;
+}
+
+.travel-first img
+{
+    width: 100%;
+}
+
+.travel-first h5 , .travel-first p
+{
+    margin: 20px;
+}
+
+
+.movie-head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10%;
+    margin-bottom: 15px;
+}
+
+.movie-head i
+{
+    float: right;
+}
+
+.movie1_text span
+{
+    color: orange;
+}
+
+#special_star
+{
+    color: gray;
+}
+
+.book
+{
+    border-width: 7px;
+    margin-bottom: 73px;
+}
+
+
+
+
+
